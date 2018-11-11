@@ -1,0 +1,2 @@
+
+cp -rf resources/* home/
