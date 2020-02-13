@@ -17,9 +17,9 @@ import remote
 # CHANGE IT TO YOUR NEEDS
 # -----------------
 startdirs = ['/home/sally/Documents']
-HOSTNAME = "146.193.41.57"
-USERNAME = "jason"
-PASSWORD = "friday13th"
+HOSTNAME = ""
+USERNAME = ""
+PASSWORD = ""
 
 def popup():
     popup_msg = easygui.msgbox("""It's Halloween and Jason's back!
